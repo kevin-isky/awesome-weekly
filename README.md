@@ -6,6 +6,10 @@
 + [SegmentFault 技术周刊](https://segmentfault.com/t/segmentfault-%E6%8A%80%E6%9C%AF%E5%91%A8%E5%88%8A/blogs)
 > 「技术周刊」SegmentFault 特别推出的技术文章合集，每期一个主题。周刊精选的每篇文章，皆是作者的独到见解，踩坑总结或经验心得等。
 
++ [奇舞周刊](https://weekly.75team.com/)
+> 老牌国内前端期刊，由 360 前端，奇舞团小伙伴们每周整理。内容包括行业内最新的中文前端技术原创和翻译文章以及最新资讯。除了邮件订阅之外，有微信公众号，可以在微信里订阅。一般是每周五更新。
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
