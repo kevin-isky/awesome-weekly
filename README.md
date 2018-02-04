@@ -1,5 +1,4 @@
-# awesome-weekly
-awesome weekly list
+# Awesome Weekly
 
 + [CodeTengu Weekly（碼天狗週刊）](https://weekly.codetengu.com/)
 
