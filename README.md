@@ -1,8 +1,6 @@
 # 经过挑选的技术周刊和日报
 
-不定期更新。
-
-如果有这里没列出来的，可以[推荐](https://github.com/kevin-isky/awesome-weekly/issues)给我。
+如果有更好更精彩的技术周刊和日报，欢迎[推荐](https://github.com/kevin-isky/awesome-weekly/issues)。
 
 + [CodeTengu Weekly（碼天狗週刊）](https://weekly.codetengu.com/)
 > 碼天狗週刊是一份開發者導向的IT技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。偶爾致力於解決開發者之間的資訊不對稱。
