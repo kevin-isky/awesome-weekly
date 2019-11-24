@@ -17,6 +17,9 @@
 + [湾区日报](https://wanqu.co/)
 > 湾区日报不是一个公司、也不是一个创业项目。湾区日报的本质是个人博客，每天推荐5篇优质英文文章的个人博客，针对每篇文章作者会写一小段中文简评。虽然并不是周报，但是内容推荐靠谱，在这里一并推荐。感兴趣的朋友可以移步了解更多 [关于湾区日报](https://wanqu.co/about)。
 
++ [科技爱好者周刊](https://github.com/ruanyf/weekly)
+> 记录每周值得分享的科技内容，周五发布。
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
